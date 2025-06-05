@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EyobZewde23
 - 👀 I’m interested in traveling
-- 🌱 I’m currently learning html,css,js
+- 🌱 I’m currently learning React js, Next js 
 - 💞️ I’m looking to collaborate on Frontend projects
 - 📫 contact me eyobdebrez@gmail.com
 
